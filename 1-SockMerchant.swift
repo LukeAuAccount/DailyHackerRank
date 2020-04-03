@@ -1,7 +1,11 @@
-import UIKit
-import PlaygroundSupport
+//
+//  1-SockMerchant.swift
+//  
+//
+//  https://www.hackerrank.com/challenges/sock-merchant/problem
+//
 
-/// https://www.hackerrank.com/challenges/sock-merchant/problem
+import Foundation
 
 func sockMerchant(n: Int, ar: [Int]) -> Int {
     var resultCount = 0
